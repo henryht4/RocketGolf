@@ -1,0 +1,210 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7270
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity\Rocket Golf\RocketGolf_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Rocket Golf\RocketGolf_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity\Rocket Golf\RocketGolf_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.207 seconds
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Rocket Golf\RocketGolf_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.651097 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4908 -> priority: 1 
+  Thread -> id: 4058 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.247323 ms
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 623.
+Total: 0.389229 ms (FindLiveObjects: 0.030396 ms CreateObjectMapping: 0.021711 ms MarkObjects: 0.182771 ms  DeleteObjects: 0.153954 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In the hole
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In the hole
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.863247 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 633.
+Total: 1.252165 ms (FindLiveObjects: 0.153560 ms CreateObjectMapping: 0.095530 ms MarkObjects: 0.955309 ms  DeleteObjects: 0.045396 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In the hole
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.741351 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 656.
+Total: 0.405809 ms (FindLiveObjects: 0.061581 ms CreateObjectMapping: 0.033949 ms MarkObjects: 0.281460 ms  DeleteObjects: 0.028817 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.986100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 656.
+Total: 0.410940 ms (FindLiveObjects: 0.049739 ms CreateObjectMapping: 0.034343 ms MarkObjects: 0.320936 ms  DeleteObjects: 0.005526 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698323 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 656.
+Total: 0.368702 ms (FindLiveObjects: 0.042633 ms CreateObjectMapping: 0.033554 ms MarkObjects: 0.271197 ms  DeleteObjects: 0.005131 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In the hole
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.727140 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 675.
+Total: 0.374623 ms (FindLiveObjects: 0.033554 ms CreateObjectMapping: 0.033159 ms MarkObjects: 0.258959 ms  DeleteObjects: 0.033159 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In the hole
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.819908 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 1.325985 ms (FindLiveObjects: 0.109742 ms CreateObjectMapping: 0.129874 ms MarkObjects: 0.953730 ms  DeleteObjects: 0.131848 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In the hole
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+In the hole
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.986100 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 0.434231 ms (FindLiveObjects: 0.045791 ms CreateObjectMapping: 0.033949 ms MarkObjects: 0.303172 ms  DeleteObjects: 0.050923 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.718850 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 0.549500 ms (FindLiveObjects: 0.069082 ms CreateObjectMapping: 0.047765 ms MarkObjects: 0.424362 ms  DeleteObjects: 0.007105 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.709771 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 0.398703 ms (FindLiveObjects: 0.046186 ms CreateObjectMapping: 0.034343 ms MarkObjects: 0.311462 ms  DeleteObjects: 0.005921 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.768984 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 0.399492 ms (FindLiveObjects: 0.047370 ms CreateObjectMapping: 0.033159 ms MarkObjects: 0.312646 ms  DeleteObjects: 0.005921 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.695081 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 0.877937 ms (FindLiveObjects: 0.092767 ms CreateObjectMapping: 0.086846 ms MarkObjects: 0.683322 ms  DeleteObjects: 0.013421 ms)
+
+Collided by Car
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.837983 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 0.940703 ms (FindLiveObjects: 0.120795 ms CreateObjectMapping: 0.091583 ms MarkObjects: 0.712139 ms  DeleteObjects: 0.014605 ms)
+

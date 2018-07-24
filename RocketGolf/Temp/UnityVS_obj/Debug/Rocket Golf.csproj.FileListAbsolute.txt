@@ -1,0 +1,22 @@
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Unity\Rocket Golf\Temp\UnityVS_obj\Debug\Rocket Golf.csprojResolveAssemblyReference.cache
+D:\Unity\Rocket Golf\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\Unity\Rocket Golf\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
